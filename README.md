@@ -17,7 +17,6 @@ I enjoy applying statistical and computational tools to real financial problems,
 
 - Python
 - R
-- Stata
 - MATLAB
 - Excel
 - LaTeX
