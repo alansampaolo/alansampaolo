@@ -19,8 +19,7 @@ I enjoy applying statistical and computational tools to real financial problems,
 - R
 - MATLAB
 - Excel
-- LaTeX
-
+  
 ## Selected Projects
 
 I'm currently building this GitHub profile to showcase projects in:
@@ -29,7 +28,6 @@ I'm currently building this GitHub profile to showcase projects in:
 - ESG Risk Prediction
 - Counterparty Risk & CVA
 - Time Series Analysis
-- Portfolio Analysis
 - Mathematical Optimization
 
 ## Connect with me
