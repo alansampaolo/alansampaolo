@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Alan 👋
 
-<!--
-**alansampaolo/alansampaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Quantitative Finance with a strong interest in financial markets, risk management, machine learning and quantitative methods.
 
-Here are some ideas to get you started:
+I enjoy applying statistical and computational tools to real financial problems, from credit risk and portfolio analysis to sustainable finance and time series modelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of interest
+
+- Quantitative Finance
+- Risk Management
+- Machine Learning
+- Financial Econometrics
+- Portfolio Management
+- Sustainable Finance
+
+## Tools
+
+- Python
+- R
+- Stata
+- MATLAB
+- Excel
+- LaTeX
+
+## Selected Projects
+
+I'm currently building this GitHub profile to showcase projects in:
+
+- Credit Risk & Machine Learning
+- ESG Risk Prediction
+- Counterparty Risk & CVA
+- Time Series Analysis
+- Portfolio Analysis
+- Mathematical Optimization
+
+## Connect with me
+
+LinkedIn: [Alan Sampaolo](www.linkedin.com/in/alan-sampaolo-2986b5281)
