@@ -32,4 +32,4 @@ I'm currently building this GitHub profile to showcase projects in:
 
 ## Connect with me
 
-LinkedIn: [Alan Sampaolo](www.linkedin.com/in/alan-sampaolo-2986b5281)
+LinkedIn: [Alan Sampaolo](https://www.linkedin.com/in/alan-sampaolo-2986b5281/)
