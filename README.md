@@ -24,11 +24,6 @@ MSc Finance graduate with interests in quantitative finance, machine learning, r
 - [**Advanced Time Series: ML vs QML**](https://github.com/alansampaolo/advanced-time-series-ml-qml)
 - [**Green Investment Behavior**](https://github.com/alansampaolo/green-investment-behavior)
 
-## Other Projects
-
-- Advanced Time Series: ML vs QML
-- Green Investment Behavior
-
 ## Tools
 
 Python · R · MATLAB · Gurobi
