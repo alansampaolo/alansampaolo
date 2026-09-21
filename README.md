@@ -1,35 +1,29 @@
-# Hi, I'm Alan 👋
+# Hi, I'm Alan
 
-MSc student in Quantitative Finance with a strong interest in financial markets, risk management, machine learning and quantitative methods.
+MSc Finance graduate with interests in quantitative finance, machine learning, risk and sustainable finance.
 
-I enjoy applying statistical and computational tools to real financial problems, from credit risk and portfolio analysis to sustainable finance and time series modelling.
+## Selected Projects
 
-## Areas of interest
+- **Efficient Monte Carlo Pricing of Barrier Options**  
+  Monte Carlo pricing under the OUSV stochastic volatility model, with variance reduction and simulation scheme comparisons.
 
-- Quantitative Finance
-- Risk Management
-- Machine Learning
-- Financial Econometrics
-- Portfolio Management
-- Sustainable Finance
+- **Credit Risk Classification**  
+  Lending Club credit risk classification with multiple ML models and SAFE AI robustness and explainability metrics.
+
+- **Eco-Risk Alpha & CVA**  
+  Analysis of ESG characteristics, CDS spreads and counterparty CVA using econometric and machine learning models.
+
+- **ESG Risk Prediction**  
+  Machine learning models for predicting corporate ESG Risk Scores.
+
+- **Mortgage Optimization**  
+  Linear programming model for mortgage allocation using Gurobi, including primal-dual analysis and sensitivity analysis.
+
+## Other Projects
+
+- Advanced Time Series: ML vs QML
+- Green Investment Behavior
 
 ## Tools
 
-- Python
-- R
-- MATLAB
-- Excel
-  
-## Selected Projects
-
-I'm currently building this GitHub profile to showcase projects in:
-
-- Credit Risk & Machine Learning
-- ESG Risk Prediction
-- Counterparty Risk & CVA
-- Time Series Analysis
-- Mathematical Optimization
-
-## Connect with me
-
-LinkedIn: [Alan Sampaolo](https://www.linkedin.com/in/alan-sampaolo-2986b5281/)
+Python · R · MATLAB · Gurobi
