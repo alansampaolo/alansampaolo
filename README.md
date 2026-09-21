@@ -4,7 +4,7 @@ MSc Finance graduate with interests in quantitative finance, machine learning, r
 
 ## Selected Projects
 
-- [**Efficient Monte Carlo Pricing of Barrier Options**](https://github.com/alansampaolo/efficient-monte-carlo-barrier-options)  
+- [**Efficient Monte Carlo Pricing of Barrier Options**](https://github.com/alansampaolo/efficient-monte-carlo-pricing-barrier-options)  
   Monte Carlo pricing under the OUSV stochastic volatility model, with variance reduction and simulation scheme comparisons.
 
 - [**Credit Risk Classification**](https://github.com/alansampaolo/credit-risk-classification)  
