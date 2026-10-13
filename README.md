@@ -1,7 +1,7 @@
 # Hi, I'm Alan 👋
 
 MSc in Finance from the University of Pavia (110/110 cum laude) and former merit-based student at Collegio Ghislieri.
-I work on **quantitative finance, credit risk and machine learning**, with a particular interest in risk modelling and sustainable finance.
+I work on **quantitative finance, credit risk and machine learning**.
 
 ## Selected Projects
 
