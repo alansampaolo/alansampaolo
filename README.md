@@ -27,7 +27,7 @@ I work on **quantitative finance, credit risk and machine learning**.
 
 ## Tools
 
-**Languages:** Python · R · MATLAB · SQL (coursework)  
+**Languages:** Python · R · MATLAB · SQL   
 **Python libraries:** pandas · NumPy · statsmodels · scikit-learn · XGBoost · imbalanced-learn · PyTorch · SHAP · Matplotlib · seaborn · Gurobi  
 **R packages:** logistf · pROC · caret  
 **Other:** Excel · Bloomberg Terminal
