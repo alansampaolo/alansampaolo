@@ -18,7 +18,7 @@ I work on **quantitative finance, credit risk and machine learning**.
   Merges financial and ESG data for 378 S&P 500 companies and compares statistical and machine learning models to identify the factors most predictive of ESG risk scores. A PyTorch neural network performs best (test R² 0.47), interpreted with SHAP, and its predictions are turned into automatic company reports through an LLM API.
 
 - [**Mortgage Optimization**](https://github.com/alansampaolo/mortgage-optimization-linear-programming) — *Python, Gurobi, team project*  
-  Linear program that finds the optimal allocation across multiple mortgage options, minimising the constant monthly payment under borrowing and repayment constraints, with duality, shadow prices and sensitivity analysis.
+  Linear program that finds the optimal allocation across multiple mortgage options, minimising the constant monthly payment under borrowing and repayment constraints, with duality and sensitivity analysis.
 
 ## Other Projects
 
