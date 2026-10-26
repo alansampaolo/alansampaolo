@@ -6,7 +6,7 @@ I work on **quantitative finance, credit risk and machine learning**.
 ## Selected Projects
 
 - [**Monte Carlo Pricing of Barrier Options**](https://github.com/alansampaolo/efficient-monte-carlo-pricing-barrier-options) — *MSc thesis, MATLAB*  
-  Pricing discretely monitored barrier options under the Ornstein–Uhlenbeck stochastic volatility (OUSV) model, comparing Euler, VHP and inverse Gaussian simulation schemes with plain, antithetic, control variate and conditional Monte Carlo estimators. Control variates cut standard errors by up to two orders of magnitude; validated against the Fourier price of the vanilla call, the inverse Gaussian scheme cut pricing error about 20-fold versus Euler on a fine time grid.
+  Pricing discretely monitored barrier options under the Ornstein–Uhlenbeck stochastic volatility (OUSV) model, comparing Euler, VHP and inverse Gaussian simulation schemes with plain, antithetic, control variate and conditional Monte Carlo estimators. Control variates cut standard errors by two orders of magnitude; validated against the Fourier price of the vanilla call, the inverse Gaussian scheme cut pricing error 20 times more than the Euler on a fine time grid.
 
 - [**Credit Risk Classification**](https://github.com/alansampaolo/credit-risk-classification) — *Python*  
   End-to-end default prediction pipeline on Lending Club loan-level data, with SMOTE applied within stratified 5-fold cross-validation to avoid data leakage. Compares seven models on a held-out test set: logistic regression performs best (ROC-AUC 0.70; PR-AUC 0.37 vs. a 0.20 default rate). Explainability and robustness assessed with SAFE AI metrics.
